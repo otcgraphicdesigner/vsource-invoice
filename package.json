@@ -2,6 +2,7 @@
   "name": "vsource-education",
   "version": "0.1.0",
   "private": true,
+  "description": "Admin panel scaffold for VSource Education using Next.js App Router, TypeScript, TailwindCSS, and shadcn/ui.",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
