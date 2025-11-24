@@ -1,0 +1,9 @@
+:root {
+  --color-primary: #dc2626;
+  --color-secondary: #1e73be;
+}
+
+[data-theme="dark"] {
+  --color-primary: #ef4444;
+  --color-secondary: #3b82f6;
+}

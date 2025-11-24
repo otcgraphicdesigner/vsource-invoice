@@ -1,0 +1,6 @@
+[
+  { "email": "superadmin@vsource.com", "password": "1234567", "employeeId": "VSH001", "name": "Super Admin", "role": "SuperAdmin" },
+  { "email": "admin@vsource.com", "password": "1234567", "employeeId": "VSH002", "name": "Admin User", "role": "Admin" },
+  { "email": "subadmin@vsource.com", "password": "1234567", "employeeId": "VSH003", "name": "SubAdmin User", "role": "SubAdmin" },
+  { "email": "accountant@vsource.com", "password": "1234567", "employeeId": "VSH004", "name": "Accountant User", "role": "Accountant" }
+]
